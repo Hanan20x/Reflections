@@ -33,3 +33,33 @@ Including more multimedia elements such as videos and interactive demos could ma
 **Additional Reflection:**  
 Creating the e-portfolio not only helped me organize my work but also provided a platform to reflect on my learning journey and growth as a developer. This assignment reinforced the value of personal branding and the role of an e-portfolio in career development.
 
+### Project Phase 1: Identifying and Presenting a Real Problem 📹
+
+**Summary:**  
+In the first phase of our project, our group brainstormed to identify a real problem within our country/institution that could be solved using web programming. We decided on a specific problem and created a short video presentation addressing the following points:
+
+- **Need:** Identified the client's needs and the market opportunity, including market size and end customers.
+- **Approach:** Proposed a compelling solution with visual aids like drawings, simulations, or mockups. The approach also included market positioning, cost, staffing, partnering, deliverables, timetable, and intellectual property protection.
+- **Benefits:** Highlighted the client benefits such as low cost, high performance, or quick response.
+- **Competition/alternatives:** Explained why our solution was superior to existing alternatives.
+
+**Improvements:**  
+To improve this phase, we could have conducted more extensive market research to better understand the client's needs and competition. Additionally, involving a few potential users in the brainstorming process could provide more insights into the problem and the proposed solution.
+
+**Additional Reflection:**  
+Creating the video presentation was an engaging way to articulate our ideas. It allowed us to visually and verbally communicate our proposed solution, which was a valuable experience in honing our presentation skills. This phase underscored the importance of clear communication and thorough understanding of the problem and its context.
+
+### Project Phase 2: Developing a Flowchart for the Proposed Solution 🔄
+
+**Summary:**  
+In the second phase, we stayed with the same group to create a detailed flowchart illustrating the step-by-step process of our proposed solution. This phase involved:
+
+- Discussing and brainstorming different flowchart designs within the group.
+- Using tools like CACOO to create the flowchart.
+- Submitting individual flowchart suggestions and deciding on the final version to use for the next phase.
+
+**Improvements:**  
+To enhance this phase, we could have explored more advanced flowchart tools or software to create a more professional and detailed diagram. Additionally, conducting a peer review session where other groups could provide feedback on our flowchart might have offered new perspectives and improvements.
+
+**Additional Reflection:**  
+Developing the flowchart was a crucial step in visualizing our solution. It helped us break down the process into manageable steps and identify potential areas for improvement. This phase also emphasized the importance of collaboration and consensus within the team to finalize the best possible flowchart.
